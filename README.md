@@ -4,12 +4,8 @@
 - 🔭 I’m currently working on **Flutter**
 
 # Github Stats
-  
-  <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilaybesli&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nilaybesli" />
-  </a>
-</p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilaybesli&" alt="nilaybesli" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

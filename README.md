@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
-<h3 align="center">A passionate Flutter Developer from Istanbul</h3>
-
 - 🔭 I’m currently working on **Flutter**
 
 # Github Stats

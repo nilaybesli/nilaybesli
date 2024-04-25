@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
-- 🔭 I’m currently working on **Flutter**
 
 # Github Stats
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilaybesli&" alt="nilaybesli" /></p>
